@@ -1,0 +1,16 @@
+.header{
+    background-image: url('/home/wecode/Documents/week3-project/img/2.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    text-transform: uppercase;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+.mine{
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+}
