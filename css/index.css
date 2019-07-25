@@ -7,19 +7,22 @@
     text-transform: uppercase;
     color: white;
     text-align: center;
+}
+#A,#B,#C,#D{
     position: relative;
+    top: 180px;
+    left: 1Opx;
 }
 .mine{
     text-align: center;
-    margin-top: 10px;
+    margin-top: -5px;
 }
 .yours{
-    background-image: url('week3-project/img/s_image.jpg');
+    background-image: url('../img/s_image\ \(1\).jpg');
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
     height: 300px;
     text-align: center;
     color: white;
-    margin-top: 10px;
 }
