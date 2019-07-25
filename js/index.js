@@ -13,5 +13,7 @@ $("#hiden1").toggle();
     $("#showing3").toggle();
     $("#hiden3").toggle();
 });
-
+$("form").submit(function(event) {
+    alert("thank you very much for contacting us");
+});
 });
