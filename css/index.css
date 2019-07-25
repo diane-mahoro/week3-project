@@ -8,14 +8,21 @@
     color: white;
     text-align: center;
 }
-#A,#B,#C,#D{
+#A{
     position: relative;
-    top: 180px;
+    top: 200px;
+}
+#B,#C,#D{
+    position: relative;
+    top: 220px;
     left: 1Opx;
+}
+#F{
+    position: relative;
+    top: 330px; 
 }
 .mine{
     text-align: center;
-    margin-top: -5px;
 }
 .yours{
     background-image: url('../img/s_image\ \(1\).jpg');
@@ -25,4 +32,16 @@
     height: 300px;
     text-align: center;
     color: white;
+}
+#E{
+    position: relative;
+    top: 80px;
+}
+.wedo{
+    text-align: center;
+}
+.showing1,.showing2,.showing3{
+    position: relative;
+    top: -140px;
+    display: none;
 }
