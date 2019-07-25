@@ -1,7 +1,5 @@
 $(document).ready(function() {
 $(".clickable").click(function() {
-$(".clckable2").hide();
-$(".clckable3").hide();
 $("#showing1").toggle();
 $("#hiden1").toggle();
 });
