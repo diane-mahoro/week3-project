@@ -1,20 +1,25 @@
+body{
+    background-color: whitesmoke;
+}
 .header{
     background-image: url('/home/wecode/Documents/week3-project/img/2.jpg');
     background-size: contain;
     background-repeat: no-repeat;
+    transform: scale(1.1);
     width: 100%;
     height: 600px;
     text-transform: uppercase;
     color: white;
     text-align: center;
+    margin-left: 10px;
 }
 #A{
     position: relative;
-    top: 200px;
+    top: 100px;
 }
-#B,#C,#D{
+#B,#D{
     position: relative;
-    top: 220px;
+    top: 160px;
     left: 1Opx;
 }
 #F{
