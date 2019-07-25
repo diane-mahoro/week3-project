@@ -41,7 +41,5 @@
     text-align: center;
 }
 .showing1,.showing2,.showing3{
-    position: relative;
-    top: -140px;
     display: none;
 }
