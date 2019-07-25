@@ -40,6 +40,6 @@
 .wedo{
     text-align: center;
 }
-.showing1,.showing2,.showing3{
+#showing1, #showing2, #showing3{
     display: none;
 }
