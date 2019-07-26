@@ -133,7 +133,53 @@ button:hover{
 .phase1, .phase2 {
     display: flex;
     flex-direction: row;
-    padding: 10px;
-    font-size: 30px;
-    margin: 5px;
+    font-size: 25px;
 }
+#text1,#text2,#text3,#text4,#text5,#text6,#text7,#text8{
+margin: 50px;
+color: white;
+background-color: black;
+padding: 5px;
+position: relative;
+display: none;
+}
+#text1{
+position: relative;
+bottom: 1250px;
+right: 100px;
+}
+#text2{
+    position: relative;
+    bottom: 1250px;
+    right: -250px;
+    }
+    #text3{
+        position: relative;
+        bottom: 1250px;
+        right: -600px;
+        }
+        #text4{
+            position: relative;
+            bottom: 1250px;
+            right: -900px;
+            }
+            #text5{
+                position: relative;
+                bottom: 1000px;
+                right: 80px;
+                }
+                #text6{
+                    position: relative;
+                    bottom: 1000px;
+                    right: -250px;
+                    }
+                    #text7{
+                        position: relative;
+                        bottom: 1000px;
+                        right: -600px;
+                        }
+                        #text8{
+                            position: relative;
+                            bottom: 1000px;
+                            right: -900px;
+                            }
