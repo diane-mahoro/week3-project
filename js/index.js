@@ -78,6 +78,7 @@ $("#im2").hover(function() {
                             $("#text8").hide();
                             });
 $("form").submit(function(event) {
-    alert("thank you very much for contacting us");
+    var a= $("#A1").val();
+    alert("thank you very much " + a + "for contacting us");
 });
 });
