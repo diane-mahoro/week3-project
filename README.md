@@ -24,3 +24,25 @@ _by diane mahoro_
 
 -Giraffe restaurant
 
+## **TOOLS USED**
+
+| **_Tools_**     | **_Decription_**                                                   |
+|-----------------|--------------------------------------------------------------------|
+| **Text editor** | This is an application used when we are desnging programs.         |
+| **Browser**     | This helps to run our programs                                     |
+| **Github**      | This is a platform used to save our codes on online                |
+
+## **Reach us**
+
+contacts: ([0788090909/0782909345](https://twitter.com/))
+
+E-mail: ([Delani-studio@gmail.com](https://twitter.com/))
+
+Instagram: ([Delani studio](https://twitter.com/))
+
+Twitter: ([Delani studio](https://twitter.com/))
+
+## **Active link** 
+
+([Delani studio](https://twitter.com/))
+
