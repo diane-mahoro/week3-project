@@ -2,6 +2,8 @@
 
 _by diane mahoro_
 
+<img src="../img/web.png" width="100%" height="200px">
+
 ## **DESCRIPTION**
 
 **DELANI Studio** is a studio engaged in software development, where design mobile application program, websites, and many other activies that involves with computer. inorder our staff to accomplish everything we devide ourselves in team and each is assigned a particular project. some of the project we have are:
