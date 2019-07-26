@@ -2,7 +2,7 @@
 
 _by diane mahoro_
 
-<img src="../img/web.png" width="100%" height="200px">
+<img src="web.png" width="100%" height="200px">
 
 ## **DESCRIPTION**
 
