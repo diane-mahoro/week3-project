@@ -2,7 +2,7 @@ body{
     background-color: whitesmoke;
 }
 .header{
-    background-image: url('img/2.jpg');
+    background-image: url('../img/2.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     transform: scale(1.13);
@@ -32,7 +32,7 @@ body{
     top: 60px;
 }
 .yours{
-    background-image: url('img/s_image\ \(1\).jpg');
+    background-image: url('../img/s_image\ \(1\).jpg');
     background-size: contain;
     transform: scale(1.13);
     background-repeat: no-repeat;
@@ -67,7 +67,7 @@ body{
     transform: scale(1.4);
 }
 .form{
-    background-image: url('img/3.jpg');
+    background-image: url('../img/3.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     transform: scale(1.13);
