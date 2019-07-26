@@ -44,5 +44,5 @@ Twitter: ([Delani studio](https://twitter.com/))
 
 ## **Active link** 
 
-([Delani studio](https://twitter.com/))
+([Delani studio]( https://diane-mahoro.github.io/week3-project/))
 
